@@ -106,7 +106,7 @@ jupyter notebook sa_labour_analysis.ipynb
 ## Author
 
 **Sithembele Zondi**
-BCom IS&T · BCom Honours in Information systems and technology — UKZN
+BCom IS&T · BCom in Information systems and technology — UKZN
 Microsoft Certified: Power BI Data Analyst Associate
 
 - 📧 sithezondi19@gmail.com
